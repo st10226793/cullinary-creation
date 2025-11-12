@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Culinary Creations",
+    "slug": "culinary-creations",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0"
+  }
+}
